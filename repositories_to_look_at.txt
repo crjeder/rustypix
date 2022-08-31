@@ -1,0 +1,10 @@
+https://github.com/tfheen/python-aurabulb/blob/master/lib/aurabulb/constants.py
+https://github.com/RomRider/node-divoom-timebox-evo
+https://github.com/virtualabs/pixoo-client/blob/main/pixoo.py
+https://github.com/DavidVentura/divoom
+https://github.com/Corb3nik/pixoo-cli/tree/main/src/commands
+https://github.com/mumpitzstuff/fhem-Divoom
+https://github.com/ScR4tCh/timebox/
+https://bitbucket.org/pjhardy/homeassistant-timebox/src/master/
+https://github.com/spezifisch/divo/blob/main/divo/command.py
+https://github.com/jfroehlich/node-p1x3lramen/blob/main/source/devices/pixoo.js
